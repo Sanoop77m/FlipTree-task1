@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "name": "Product B",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Product C",
+      "price": 300
+    }
+  ],
+  "users": [
+    {
+      "id": "31bd",
+      "name": "sanoop",
+      "email": "sanoop@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4c30",
+      "name": "sanoop",
+      "email": "sanoop@gmail.com",
+      "password": "123"
+    }
+  ]
+}
