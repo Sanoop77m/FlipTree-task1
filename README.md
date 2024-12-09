@@ -9,6 +9,7 @@ In the project directory, you can run:
 ## run server.js
 
 `node server.js`
+Runs the server and open in http://localhost:5000
 
 ### `npm start`
 
